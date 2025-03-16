@@ -161,6 +161,7 @@ Reference
 :doc:`ref/mixer`
   Load and play sounds
 
+
 :doc:`ref/mouse`
   Manage the mouse device and display.
 
